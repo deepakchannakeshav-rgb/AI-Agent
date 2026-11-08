@@ -17,7 +17,7 @@ response = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "what is ur name?"
+            "content": "tell me funny quote"
         }
     ]
 )
